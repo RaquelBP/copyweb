@@ -272,7 +272,17 @@ footer ul{
 }
 footer a{
     text-decoration: none;
-    color: black;
+    color: rgb(72, 72, 72);
     text-align: left;
     font-weight: 100;
+}
+aside{
+    background-color: rgb(179, 37, 164);
+    display: flex;
+    border-radius: 30px;
+    width: fit-content;
+    position: fixed;
+    bottom: 40px;
+    right: 60px;
+    padding: 20px;
 }
